@@ -1,0 +1,4 @@
+vi prac5.l
+flex prac5.l
+gcc lex.yy.c -ll
+./a.out
