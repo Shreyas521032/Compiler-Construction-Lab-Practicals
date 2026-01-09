@@ -115,11 +115,3 @@ yacc -d filename.y
 ---
 
 **Note:** These practicals are for educational purposes and are part of academic coursework in Compiler Design.
-
-## 📞 Contact
-
-For any queries or suggestions, please open an issue in the repository or contact the author.
-
----
-
-*Happy Coding! 🚀*
