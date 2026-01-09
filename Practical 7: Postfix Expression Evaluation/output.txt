@@ -1,0 +1,6 @@
+vi practical7.l
+vi practical7.y
+flex practical7.l
+bison -d practical7.y
+cc lex.yy.c practical7.tab.c -ll
+./a.out
